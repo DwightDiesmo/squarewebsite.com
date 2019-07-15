@@ -1,0 +1,15 @@
+.bg-picton {
+  background-color: #45b1e8;
+}
+
+.btn-picton {
+  background-color: #45b1e8;
+}
+.btn-picton:hover {
+  background-color: #2a8abb;
+  cursor: pointer;
+}
+
+.text-picton{
+  color: #45b1e8;
+}
